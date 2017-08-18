@@ -1,0 +1,5 @@
+c:\users\evgeny\documents\visual studio 2017\Projects\SportlabInvoiceFix\SportlabInvoiceFix\bin\Debug\SportlabInvoiceFix.exe
+c:\users\evgeny\documents\visual studio 2017\Projects\SportlabInvoiceFix\SportlabInvoiceFix\bin\Debug\SportlabInvoiceFix.pdb
+c:\users\evgeny\documents\visual studio 2017\Projects\SportlabInvoiceFix\SportlabInvoiceFix\obj\Debug\SportlabInvoiceFix.csprojResolveAssemblyReference.cache
+c:\users\evgeny\documents\visual studio 2017\Projects\SportlabInvoiceFix\SportlabInvoiceFix\obj\Debug\SportlabInvoiceFix.exe
+c:\users\evgeny\documents\visual studio 2017\Projects\SportlabInvoiceFix\SportlabInvoiceFix\obj\Debug\SportlabInvoiceFix.pdb
